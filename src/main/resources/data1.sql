@@ -1,0 +1,3 @@
+INSERT INTO Product (name, description, brand, price, category, releasedate, available, quantity) VALUES
+                                                                                               ('Tata ','A compact SIJV With excellent safety features and performance', 'Tata Motors', 750000.00, 'Cars', '2024-01-15', true, 50),
+                                                                                               (' Suzuki Swift', 'A popular hatchback known for its fuel efficiency and reliability.', 'Maruti Suzuki', 550000.00, 'Cars', '2024-02-01',true, 100);
